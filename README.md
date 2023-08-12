@@ -16,7 +16,7 @@
 
 
 ### Run your emotion detection test file
-python TestEmotionDetector.py
+- python TestEmotionDetector.py
 
 ## Contributers
 - Rohit Raj (https://github.com/Rj2arwin)
