@@ -19,8 +19,8 @@
 python TestEmotionDetector.py
 
 ## Contributers
-Rohit Raj (https://github.com/Rj2arwin)
-Ram Kumar (https://github.com/rkrathore459954)
-Rakesh Kumar Pallai (https://github.com/rakesh-2132)
-Sumit Gaurav
-Satyabrata Maharana
+- Rohit Raj (https://github.com/Rj2arwin)
+- Ram Kumar (https://github.com/rkrathore459954)
+- Rakesh Kumar Pallai (https://github.com/rakesh-2132)
+- Sumit Gaurav
+- Satyabrata Maharana
